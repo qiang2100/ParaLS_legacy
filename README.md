@@ -38,7 +38,7 @@ Please cite as:
 @inproceedings{QiangParaLS,
   title = {ParaLS: Paraphraser-based Lexical Substitution
 Abstract},
-  author = {Jipeng Qiang, Yun Li, Yunhao Yuan, Yi Zhu, Xindong },
+  author = {Jipeng Qiang, Yun Li, Yunhao Yuan, Yi Zhu, Xindong Wu},
   booktitle = {****},
   year = {2022},
 }
