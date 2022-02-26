@@ -10,6 +10,12 @@ Lexical substitution (LS) aims at finding appropriate substitutes for a target w
 * Python version >= 3.8
 * For training new models, you'll also need an NVIDIA GPU and [NCCL](https://github.com/NVIDIA/nccl)
 
+## Step 1: Downlaod the pretrained paraphraser modeling
+
+You need to download the paraphraser from [here](https://drive.google.com/file/d/1o5fUGJnTxMe9ASQWTxIlbWmbEqN_RQ6D/view?usp=sharing), and put it into folder "checkpoints/⁨para⁩/transformer/⁩"
+
+## Step 2: 
+
 
 # Citation
 
