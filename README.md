@@ -1,4 +1,4 @@
-# ParaLS: ParaLS: Paraphraser-based Lexical Substitution
+# ParaLS: Paraphraser-based Lexical Substitution
 
 Lexical substitution (LS) aims at finding appropriate substitutes for a target word in a sentence. Recently, BERT-based LS methods have made remarkable progress, which generates substitute candidates for a target word directly based on its context. However, it overlooks the substitution's impact on the overall meaning of the sentence. In this paper, we try to generate the substitute candidates from a paraphraser. Considering the generated paraphrases from a paraphraser contain variations in word choice and preserve the sentence's meaning, we propose a simple decoding method that focuses on the variations of the target word during decoding, and leverage it to propose a new LS approach ParaLS. Experimental results show that ParaLS improves the F1 score from 18.4 to 28.7 on the up-to-date benchmark compared with the state-of-the-art BERT-based LS method.
 
