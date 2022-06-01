@@ -35,11 +35,5 @@ input "python Paraphraser.py"
 Please cite as:
 
 ``` bibtex
-@inproceedings{QiangParaLS,
-  title = {ParaLS: Paraphraser-based Lexical Substitution
-Abstract},
-  author = {Jipeng Qiang, Yun Li, Yunhao Yuan, Yi Zhu, Xindong Wu},
-  booktitle = {****},
-  year = {2022},
-}
+
 ```
